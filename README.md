@@ -112,9 +112,3 @@ python kaggle_house_prices.py
 **Kaggle — House Prices: Advanced Regression Techniques**  
 1,460 residential homes in Ames, Iowa with 79 features describing almost every aspect of the property.  
 → [kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-
----
-
-## Author
-
-Built as a beginner ML learning project.
